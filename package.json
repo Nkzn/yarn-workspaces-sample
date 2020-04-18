@@ -1,0 +1,13 @@
+{
+  "name": "yarn-workspaces-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Nkzn/yarn-workspaces-sample",
+  "author": "Nkzn<yn.airscope@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "workspace-a",
+    "workspace-b"
+  ]
+}
